@@ -23,7 +23,7 @@ userButton.addEventListener("click", function () {
   } else if (userInput) {
     userInput <= 1900 || userInput >= currentYear
       ? userMessage("Common, you can't be serious 😆")
-      : userMessage(`That's ${currentYear - userInput} years of age 😉`);
+      : userMessage(`Age: ${currentYear - userInput} years 😉`);
   }
 });
 
