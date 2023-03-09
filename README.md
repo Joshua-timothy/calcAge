@@ -2,9 +2,7 @@
 
 <p>Age Calculator project</p>
 
-live-link 🔗
-
-https://devjhozi.github.io/calcAge/
+[live-link 🔗](https://joshua-timothy.github.io/calcAge/)
 
 ## Built with:
 - 🚀 HTML
